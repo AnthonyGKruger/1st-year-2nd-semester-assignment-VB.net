@@ -1,0 +1,15 @@
+C:\Users\Anthony\iCloudDrive\Documents\Anthony\Richfield\year_1\semester_2\Programming 512\Assignments\assignment 2\assignment2\bin\Debug\assignment2.exe.config
+C:\Users\Anthony\iCloudDrive\Documents\Anthony\Richfield\year_1\semester_2\Programming 512\Assignments\assignment 2\assignment2\bin\Debug\assignment2.exe
+C:\Users\Anthony\iCloudDrive\Documents\Anthony\Richfield\year_1\semester_2\Programming 512\Assignments\assignment 2\assignment2\bin\Debug\assignment2.pdb
+C:\Users\Anthony\iCloudDrive\Documents\Anthony\Richfield\year_1\semester_2\Programming 512\Assignments\assignment 2\assignment2\bin\Debug\assignment2.xml
+C:\Users\Anthony\iCloudDrive\Documents\Anthony\Richfield\year_1\semester_2\Programming 512\Assignments\assignment 2\assignment2\obj\Debug\assignment2.vbprojAssemblyReference.cache
+C:\Users\Anthony\iCloudDrive\Documents\Anthony\Richfield\year_1\semester_2\Programming 512\Assignments\assignment 2\assignment2\obj\Debug\assignment2.frmLogin.resources
+C:\Users\Anthony\iCloudDrive\Documents\Anthony\Richfield\year_1\semester_2\Programming 512\Assignments\assignment 2\assignment2\obj\Debug\assignment2.Resources.resources
+C:\Users\Anthony\iCloudDrive\Documents\Anthony\Richfield\year_1\semester_2\Programming 512\Assignments\assignment 2\assignment2\obj\Debug\assignment2.vbproj.GenerateResource.cache
+C:\Users\Anthony\iCloudDrive\Documents\Anthony\Richfield\year_1\semester_2\Programming 512\Assignments\assignment 2\assignment2\obj\Debug\assignment2.exe
+C:\Users\Anthony\iCloudDrive\Documents\Anthony\Richfield\year_1\semester_2\Programming 512\Assignments\assignment 2\assignment2\obj\Debug\assignment2.xml
+C:\Users\Anthony\iCloudDrive\Documents\Anthony\Richfield\year_1\semester_2\Programming 512\Assignments\assignment 2\assignment2\obj\Debug\assignment2.pdb
+C:\Users\Anthony\iCloudDrive\Documents\Anthony\Richfield\year_1\semester_2\Programming 512\Assignments\assignment 2\assignment2\obj\Debug\assignment2.frmSplash.resources
+C:\Users\Anthony\iCloudDrive\Documents\Anthony\Richfield\year_1\semester_2\Programming 512\Assignments\assignment 2\assignment2\obj\Debug\assignment2.frmAboutDev.resources
+C:\Users\Anthony\iCloudDrive\Documents\Anthony\Richfield\year_1\semester_2\Programming 512\Assignments\assignment 2\assignment2\obj\Debug\assignment2.frmStudentManagement.resources
+C:\Users\Anthony\iCloudDrive\Documents\Anthony\Richfield\year_1\semester_2\Programming 512\Assignments\assignment 2\assignment2\obj\Debug\assignment2.Form1.resources
